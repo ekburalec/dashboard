@@ -1,0 +1,15 @@
+# IDE конфиги
+.vscode/
+.idea/
+.DS_Store
+
+# Временные и лог‑файлы
+*.log
+*.tmp
+
+# Env-файлы с секретами
+*.env
+!.env.example
+
+# Node.js зависимости
+node_modules/
